@@ -1,0 +1,79 @@
+
+#mainPage{
+background-image: url('/logo.png');
+    background-position-x: 50%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: rgb(243, 243, 243);
+z-index: 45;
+}
+#cart{
+
+    text-align: right;
+
+}
+#root{
+    height: 100%;
+}
+#map{
+    height: 80%;
+    width: 100%;
+    text-align: center;
+}
+#mapClose{
+    position: absolute;
+    display: inline;
+}
+
+/* #nav{
+    text-align: right;
+} */
+a  {
+    margin: 2px;
+    text-align: right;
+
+
+}
+
+input{
+    text-align: right;
+}
+label{
+    text-align: right;
+    margin-right : 20px;
+}
+nav{
+    text-align: right;
+}
+.right-text{
+    text-align: right;
+}
+.center-text{
+    text-align: center;
+}
+.emaildup{
+    color: red;
+}
+.itemimg{
+
+    width: 30rem;
+
+}
+a:hover img{
+    background-color: aqua;
+     text-decoration: none;
+     opacity: 0.5;
+}
+.logo{
+    text-align: center;
+    display: inline-table;
+}
+.dropdown-item{
+    text-align: right;
+}
+.collapse {
+    text-align: right;
+}
+.form-inline{
+    text-align: right;
+}
